@@ -3,6 +3,6 @@
 
 Here is my assignment: 
 
-- (Organization System Analysis IMDb) [org-system-analysis]
+- [Organization System Analysis IMDb](org-system-analysis)
 
 
