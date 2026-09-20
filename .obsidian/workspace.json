@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "org-system-analysis.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "org-system-analysis"
+              "title": "index"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "9757abc906ca07e7",
   "lastOpenFiles": [
-    "index.md",
     "org-system-analysis.md",
+    "index.md",
     "Org System Analysis.md",
     "Untitled.canvas",
     "IMDb Analysis.md"
