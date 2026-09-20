@@ -1,8 +1,3 @@
-___
-
-layout: default
-title: Assignment Page
-___
 
 # My Assignment
 
