@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7991e861eb4eeff0",
+        "id": "76a9f02e9f013dec",
         "type": "tabs",
         "children": [
           {
-            "id": "9757abc906ca07e7",
+            "id": "fdd31848e3b28c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,9 +188,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9757abc906ca07e7",
+  "active": "fdd31848e3b28c69",
   "lastOpenFiles": [
     "org-system-analysis.md",
+    "org-system-analysis  (Organization System Analysis IMDb) [org-system-analysis.md",
     "index.md",
     "Org System Analysis.md",
     "Untitled.canvas",
